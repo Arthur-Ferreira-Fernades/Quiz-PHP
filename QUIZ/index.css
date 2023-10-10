@@ -1,0 +1,19 @@
+.conteudo {
+    display: flex;
+    height: 75vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    padding: 15px
+}
+
+h1 {
+    margin-right:50px 
+}
